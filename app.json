@@ -25,6 +25,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d621475c-ce08-4f14-ae94-ad859f4a3a12"
+      }
+    },
+    "owner": "convi96",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
